@@ -1,2 +1,2 @@
 # Car_Price_Prediction
-ML model to predict the price of a car based on a number of features
+ML model to predict the price of a car
